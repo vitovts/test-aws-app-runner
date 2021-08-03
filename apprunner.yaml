@@ -8,6 +8,6 @@ run:
   command: python application.py
   env:
    - name : NAME_FIRST
-     value: "Denis"
+     value: "WS"
    - name : NAME_LAST
-     value: "Astahov"
+     value: "ws"
